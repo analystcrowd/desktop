@@ -10,7 +10,7 @@ Originally created as "electron-mattermost" by Yuya Ochiai.
 
 ## Features
 
-TEST RCE
+TEST RCE1
 
 ### Desktop integration
 * Server dropdown for access to multiple servers
